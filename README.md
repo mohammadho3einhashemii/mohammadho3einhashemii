@@ -1,14 +1,4 @@
-# Hi, I'm Mohammad 👋
+# Hi, I'm Mohammad Hosein 👋
 
-I'm a Computer Science student and AI Engineer Intern.
+I'm a Computer Science student and AI Engineer.
 
-## 🚀 About Me
-
-- 🤖 Interested in AI and Machine Learning
-- 🐧 Working with Linux
-- 🧠 Exploring NLP and LLMs
-- 🛠️ Building AI and data engineering projects
-
-## 🛠️ Technologies
-
-Python • Linux • Git • Docker • Airflow • PyTorch • Hugging Face
