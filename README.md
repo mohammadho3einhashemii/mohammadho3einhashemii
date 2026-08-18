@@ -2,9 +2,13 @@
 
 # Hi, I'm Mohammad Hosein 👋
 
-### AI Engineer • Computer Science Student • Linux & Cybersecurity Enthusiast
+### AI Engineer • Computer Science Student
 
-<img src="https://i.imgur.com/lRkCVHm.gif" width="400" alt="coding animation" />
+<p align="center">
+  <img src="https://media1.tenor.com/m/T5B9VSyrk8gAAAAd/work.gif"
+       width="320"
+       alt="Work animation" />
+</p>
 
 </div>
 
@@ -14,8 +18,6 @@
 
 - 🤖 AI Engineer interested in **LLMs, NLP, RAG, Agentic AI and Machine Learning**
 - 🎓 Computer Science student
-- 🐧 Linux, WSL and developer tooling
-- 🔐 Cybersecurity and malware detection
 - 🛠️ Building practical AI and software-engineering systems
 - ☁️ Exploring **Cloud / Infrastructure Engineering**
 
@@ -35,17 +37,13 @@
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
 ### 🐧 Systems / Tools
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
@@ -58,11 +56,6 @@ Artificial Intelligence
 ├── Agentic AI
 └── Fine-tuning / LoRA / QLoRA
 
-Cybersecurity
-├── Malware Detection
-├── ELF Analysis
-└── Linux Security
-
 Engineering
 ├── Cloud & Infrastructure
 ├── Automation
@@ -73,8 +66,6 @@ Engineering
 
 ## 📌 Featured Projects
 
-- 🛡️ **Linux Malware Detection** — ELF feature extraction and ML classification
-- 📦 **Linux Package / ELF Whitelisting** — automated release checking and package extraction
 - 🧠 **RAG & AI Assistants** — retrieval, vector search and LLM applications
 - 🔧 **LLM Fine-tuning** — LoRA, QLoRA, DoRA and parameter-efficient methods
 
